@@ -23,7 +23,7 @@ Some of my skills:
 - Bash
 
 ~ $ cat contact.txt
-If I'm not responding to any of your PRs or issues, feel free to remind me via <a href="iphs2@outlook.com">email</a>.
+If I'm not responding to any of your PRs or issues, feel free to remind me via iphs2@outlook.com
 
 ~ $ sudo rm -rf /*
 
