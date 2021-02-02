@@ -26,7 +26,6 @@ Some of my skills:
 If I'm not responding to any of your PRs or issues, feel free to remind me via iphs2@outlook.com
 
 ~ $ sudo rm -rf /*
-
 </pre>
 
 <!-- This profile readme is WIP :) -->
