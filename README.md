@@ -13,7 +13,8 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 </pre>
 <pre>
 ~ $ cat info.txt
-Hi, I'm Gustavo and I'm student of CyberSecurity. I'm a amateur developer and I like so much to develop projects focused to CyberSecurity.
+Hi, I'm Gustavo and I'm student of CyberSecurity. I'm a amateur developer and I like so much to develop projects 
+focused to CyberSecurity.
 
 Some of my skills:
 - Python
