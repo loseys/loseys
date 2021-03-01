@@ -19,6 +19,7 @@ focused to CyberSecurity.
 Some of my skills:
 - Python
 - C
+- C#
 - QT Framework
 - Shell Script
 - Bash
