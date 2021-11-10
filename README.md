@@ -16,17 +16,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 Hi, I'm Gustavo and I'm student of CyberSecurity. I'm an amateur developer and I like so much to develop projects 
 focused to CyberSecurity.
 
-Some of my skills:
-- Python
-- C
-- C#
-- QT Framework
-- Shell Script
-- Bash
-
-~ $ cat contact.txt
-If I'm not responding to any of your PRs or issues, feel free to remind me via iphs2@outlook.com
-
 ~ $ sudo rm -rf /*
 </pre>
 
