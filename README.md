@@ -1,4 +1,4 @@
-<pre>
+<!-- <pre>
 __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
  _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
   _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
@@ -17,6 +17,12 @@ Hi, I'm Gustavo and I'm student of CyberSecurity. I'm an amateur developer and I
 focused to CyberSecurity.
 
 ~ $ sudo rm -rf /*
-</pre>
+</pre> -->
+
+
 
 <!-- This profile readme is WIP :) -->
+<div align="center">
+  <img src="https://i.imgur.com/fqclvIo.gif" width="900" />
+</div>
+
