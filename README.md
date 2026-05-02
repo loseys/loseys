@@ -1,3 +1,3 @@
 <div align="center">
-  <img width="1995" height="788" alt="readme" src="https://github.com/user-attachments/assets/be9d024a-7b0f-496f-8b8f-64296e197ac0" />
+  <img width="1995" height="788" alt="capa123" src="https://github.com/user-attachments/assets/ac25cc81-e0c0-49a3-8a98-ddd5250a8718" />
 </div>
