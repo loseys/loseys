@@ -1,3 +1,4 @@
 <div align="center">
-  <img width="1995" height="788" alt="capa123" src="https://github.com/user-attachments/assets/ac25cc81-e0c0-49a3-8a98-ddd5250a8718" />
+  <img width="1995" height="788" alt="image" src="https://github.com/user-attachments/assets/19c324e1-c0c7-4dae-9959-e288bcd09549" />
 </div>
+
