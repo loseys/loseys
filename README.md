@@ -1,3 +1,3 @@
 <div align="center">
-  <img width="1496" height="591" alt="capa" src="https://github.com/user-attachments/assets/87e83989-dfe8-4d3a-97b9-ad0729c09f4f" />
+  <img width="1496" height="591" alt="CAPA" src="https://github.com/user-attachments/assets/07bbe832-b993-4df8-9f4f-04dc528f4d45" />
 </div>
